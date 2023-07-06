@@ -2,7 +2,7 @@
     {
         "id":"campera-grecia",
         "titulo":"Campera Grecia",
-        "imagen": "./imagenes/campera-grecia.jpg",
+        "imagen": "./img/campera-grecia.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -12,7 +12,7 @@
     {
         "id":"deportivo-indiana",
         "titulo":"Deportivo Indiana",
-        "imagen": "./imagenes/deportivo-indiana.jpg",
+        "imagen": "./img/deportivo-indiana.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -22,7 +22,7 @@
     {
         "id":"jean-tiziana",
         "titulo":"Jean Tiziana",
-        "imagen": "./imagenes/jean-tiziana.jpg",
+        "imagen": "./img/jean-tiziana.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -32,7 +32,7 @@
     {
         "id":"conjunto-roma",
         "titulo":"Conjunto Roma",
-        "imagen": "./imagenes/conjunto-roma.jpg",
+        "imagen": "./img/conjunto-roma.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -42,7 +42,7 @@
     {
         "id":"conjunto-beltran",
         "titulo":"Conjunto Beltran",
-        "imagen": "./imagenes/conjunto-beltran.JPG",
+        "imagen": "./img/conjunto-beltran.JPG",
         "categoria": {
             "nombre":"Niños",
             "id":"ninios"
@@ -52,7 +52,7 @@
     {
         "id":"conjunto-genaro",
         "titulo":"Conjunto Genaro",
-        "imagen": "./imagenes/conjunto-genaro.jpg",
+        "imagen": "./img/conjunto-genaro.jpg",
         "categoria": {
             "nombre":"Bebe",
             "id":"bebe"
@@ -62,7 +62,7 @@
     {
         "id":"conjunto-lorenzo",
         "titulo":"Conjunto Lorenzo",
-        "imagen": "./imagenes/conjunto-lorenzo.jpg",
+        "imagen": "./img/conjunto-lorenzo.jpg",
         "categoria": {
             "nombre":"Bebe",
             "id":"bebe"
@@ -72,7 +72,7 @@
     {
         "id":"conjunto-vicente",
         "titulo":"Conjunto Vicente",
-        "imagen": "./imagenes/conjunto-vicente.jpg",
+        "imagen": "./img/conjunto-vicente.jpg",
         "categoria": {
             "nombre":"Niños",
             "id":"ninios"
@@ -82,7 +82,7 @@
     {
         "id":"maya-tiburon",
         "titulo":"Maya Tiburon",
-        "imagen": "./imagenes/maya-tiburon.JPG",
+        "imagen": "./img/maya-tiburon.JPG",
         "categoria": {
             "nombre":"Niños",
             "id":"ninios"
@@ -92,7 +92,7 @@
     {
         "id":"enterito-nieve",
         "titulo":"Enterito Nieve",
-        "imagen": "./imagenes/enterito-nieve.jpg",
+        "imagen": "./img/enterito-nieve.jpg",
         "categoria": {
             "nombre":"Bebe",
             "id":"bebe"
@@ -102,7 +102,7 @@
     {
         "id":"enterito-osito",
         "titulo":"Enterito Osito",
-        "imagen": "./imagenes/enterito-osito.jpg",
+        "imagen": "./img/enterito-osito.jpg",
         "categoria": {
             "nombre":"Bebe",
             "id":"bebe"
@@ -112,7 +112,7 @@
     {
         "id":"maya-arcoiris",
         "titulo":"Maya Arcoiris",
-        "imagen": "./imagenes/maya-arcoiris.jpg",
+        "imagen": "./imag/maya-arcoiris.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -122,7 +122,7 @@
     {
         "id":"tapado-oriana",
         "titulo":"Tapado Oriana",
-        "imagen": "./imagenes/tapado-oriana.jpg",
+        "imagen": "./img/tapado-oriana.jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
@@ -132,7 +132,7 @@
     {
         "id":"vestido-juana",
         "titulo":"Vestido Juana",
-        "imagen": "./imagenes/vestido-juana (1).jpg",
+        "imagen": "./img/vestido-juana (1).jpg",
         "categoria": {
             "nombre":"Niñas",
             "id":"ninias"
